@@ -1,6 +1,6 @@
 # University_OOP_LB4
 
-LB4
+Laboratory work №4
 
 Лабораторная работа №4 по ООП 
 
